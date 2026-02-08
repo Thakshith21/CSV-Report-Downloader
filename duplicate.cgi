@@ -230,4 +230,4 @@ else:
     logging.error("CSV generation was not successful. Check the log for further information.")
 
 if deduplicated_csv:
-     print(f'<a href="http://dev.oliveboard.in/thakshith/pmock/output1/deduplicated_report.csv" target="_blank">Download the CSV</a><br>')
+     print(f'<a href="http://doainname.com/thakshith/pmock/output1/deduplicated_report.csv" target="_blank">Download the CSV</a><br>')
